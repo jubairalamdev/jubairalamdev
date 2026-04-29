@@ -23,7 +23,7 @@
 **jubairalam.dev@gmail.com**
 
 🌐 Portfolio:  
-**Coming Soon**
+https://jubair-alam.vercel.app/
 
 📄 Resume:  
 **Coming Soon**
