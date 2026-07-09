@@ -1,133 +1,89 @@
-<h1 align="center">Hi 👋, I'm Jubair Alam Alif</h1>
-<h3 align="center">🚀 Passionate MERN Stack Web Developer | Building Modern Web Experiences</h3>
+# <img src="https://raw.githubusercontent.com/Tridib-Barik/Tridib-Barik/master/assets/Developer.gif" width="35" /> Hello World, I'm Jubair Alam!
+
+<!-- Placeholder for Banner Image. You can replace the src URL with your banner image link later -->
+![Jubair Alam Banner](https://via.placeholder.com/1200x400?text=Jubair+Alam+%7C+MERN+%26+Full+Stack+Web+Developer)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jubairalamdev&label=Profile%20Views&color=0e75b6&style=flat" alt="jubairalamdev" />
+  <strong>MERN Stack Web Developer | Full Stack Web Developer | Focused Problem Solver</strong>
 </p>
 
 ---
 
-## 💫 About Me
+### :man_developer: About Me
 
-💻 I’m a passionate **MERN Stack Developer** who loves building modern, responsive, and user-friendly web applications.
+I am a results-driven **Full Stack Web Developer** specializing in the MERN Stack and modern JavaScript ecosystems. I build scalable, high-performance web applications that combine robust backend architecture with seamless, intuitive user experiences.
 
-🌱 Currently exploring **Next.js, MongoDB, Express.js, and Scalable Backend Systems**
-
-🔭 Working on: **Keen Keeper**  
-👉 https://github.com/jubairalamdev/keen-keeper-A7
-
-💬 Ask me about:  
-**React.js, Next.js, JavaScript, Tailwind CSS, MongoDB, Express.js**
-
-📫 Reach me at:  
-**jubairalam.dev@gmail.com**
-
-🌐 Portfolio:  
-https://jubair-alam.vercel.app/
-
-📄 Resume:  
-**Coming Soon**
+My primary focus is leveraging **Next.js** and **React.js** to deliver lightning-fast, SEO-optimized frontends while engineering secure, efficient APIs using **Node.js** and **Express.js**. Whether it's architecting database schemas in MongoDB Atlas or ensuring type safety with **TypeScript**, I write clean, maintainable code that solves real-world business problems.
 
 ---
 
-## 🌐 Connect With Me
+### :seedling: Current Activities
+
+- :books: I am currently diving deep and **learning TypeScript** to enforce type-safety across my applications.
+- :rocket: Exploring advanced architecture in **Next.js** (App Router, SSR, SSG, ISR).
+- :building_construction: Architecting secure, efficient RESTful APIs and optimizing database schemas.
+
+---
+
+### :revolving_hearts: Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jubair-alam-alif/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/jubair-alam-alif" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/jubairalamdev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+### :computer: Technical Toolkit & Skills
 
+#### **Frontend Ecosystem**
 <p align="left">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb" alt="React.js" />
+  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23f7df1e" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-</a>
+#### **Backend & Database**
+<p align="left">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361dafb" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" />
+</p>
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
-</a>
-
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="45" height="45"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
-</a>
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
-</a>
-
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-</a>
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
-</a>
-
+#### **Tools & DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### :bar_chart: GitHub Stats
+
+Here are my dynamically updated GitHub statistics reflecting my open-source contributions, language distributions, and commit streaks:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jubairalamdev&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jubairalamdev&show_icons=true&theme=dark&hide_border=true" alt="Jubair's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubairalamdev&theme=dark&hide_border=true" alt="Jubair's Streak Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubairalamdev&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubairalamdev&theme=tokyonight&hide_border=true" alt="github streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubairalamdev&layout=compact&theme=dark&hide_border=true" alt="Top Languages Used" width="60%" />
 </p>
 
 ---
 
-## ⚡ Fun Fact
-
-✨ I love turning ideas into beautiful digital experiences  
-🔥 Clean UI + Smooth UX + Scalable Code = My Happy Place
-
----
-
-<h3 align="center">Thanks for visiting ❤️</h3>## Hi there 👋
-
-<!--
-**jubairalamdev/jubairalamdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  ⚡ <em>"Writing clean, maintainable code to solve complex, real-world business problems."</em>
+</p>
