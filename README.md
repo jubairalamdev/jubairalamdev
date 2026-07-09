@@ -69,17 +69,27 @@ My primary focus is leveraging **Next.js** and **React.js** to deliver lightning
 
 ---
 
-### :bar_chart: GitHub Stats
+### :bar_chart: GitHub & LeetCode Stats
 
-Here are my dynamically updated GitHub statistics reflecting my open-source contributions, language distributions, and commit streaks:
+<table align="center">
+<tr>
+<td align="center">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=jubairalamdev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58C4DC&fire=58C4DC&currStreakLabel=58C4DC&sideLabels=8b949e&dates=8b949e" height="200"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://leetcard.jacoblin.cool/jubairalamdev?theme=dark&font=baloo" height="200"/>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jubairalamdev&show_icons=true&theme=dark&hide_border=true" alt="Jubair's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubairalamdev&theme=dark&hide_border=true" alt="Jubair's Streak Stats" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubairalamdev&layout=compact&theme=dark&hide_border=true" alt="Top Languages Used" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jubairalamdev&show_icons=true&theme=dark&hide_border=true&background=0d1117" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubairalamdev&layout=compact&theme=dark&hide_border=true&background=0d1117" width="49%" />
 </p>
 
 ---
