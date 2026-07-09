@@ -1,7 +1,7 @@
-# <img src="https://raw.githubusercontent.com/Tridib-Barik/Tridib-Barik/master/assets/Developer.gif" width="35" /> Hello World, I'm Jubair Alam!
+<!-- Custom Banner Image with Styled Corners -->
+<img src="./github-cover.png" alt="jubair-cover" style="width:100%; border-radius:30px" />
 
-<!-- Placeholder for Banner Image. You can replace the src URL with your banner image link later -->
-![Jubair Alam Banner](https://via.placeholder.com/1200x400?text=Jubair+Alam+%7C+MERN+%26+Full+Stack+Web+Developer)
+<h1 align="center" style="font-size:58px">Hello World, I'm Jubair Alam!</h1>
 
 <p align="center">
   <strong>MERN Stack Web Developer | Full Stack Web Developer | Focused Problem Solver</strong>
@@ -9,7 +9,7 @@
 
 ---
 
-### :man_developer: About Me
+### :man: About Me
 
 I am a results-driven **Full Stack Web Developer** specializing in the MERN Stack and modern JavaScript ecosystems. I build scalable, high-performance web applications that combine robust backend architecture with seamless, intuitive user experiences.
 
@@ -57,7 +57,6 @@ My primary focus is leveraging **Next.js** and **React.js** to deliver lightning
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361dafb" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
   <img src="https://img.shields.io/badge/Better%20Auth-F5A623?style=for-the-badge&logo=auth0&logoColor=white" alt="Better Auth" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
 </p>
