@@ -1,7 +1,7 @@
 <!-- Custom Banner Image with Styled Corners -->
-<img src="./github-cover.png" alt="jubair-cover" style="width:100%; border-radius:30px" />
+<img src="./github-cover.png" alt="jubair-cover" style="width:100%; border-radius:20px" />
 
-<h1 align="center" style="font-size:58px">Hello World, I'm Jubair Alam!</h1>
+<h1 align="center" style="font-size:48px">Hello World, I'm Jubair Alam Alif!</h1>
 
 <p align="center">
   <strong>MERN Stack Web Developer | Full Stack Web Developer | Focused Problem Solver</strong>
