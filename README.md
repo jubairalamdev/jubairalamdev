@@ -89,11 +89,6 @@ My primary focus is leveraging **Next.js** and **React.js** to deliver lightning
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jubairalamdev&show_icons=true&theme=dark&hide_border=true&background=0d1117" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubairalamdev&layout=compact&theme=dark&hide_border=true&background=0d1117" width="49%" />
-</p>
-
 ---
 
 <p align="center">
