@@ -81,7 +81,7 @@ My primary focus is leveraging **Next.js** and **React.js** to deliver lightning
 
 <td align="center">
 
-<img src="https://leetcard.jacoblin.cool/jubairalamdev?theme=dark&font=baloo" height="200"/>
+<img src="https://leetcard.jacoblin.cool/jubairalam?theme=dark&font=baloo" height="200"/>
 
 </td>
 </tr>
