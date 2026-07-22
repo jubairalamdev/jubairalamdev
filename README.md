@@ -4,7 +4,7 @@
 <h1 align="center" style="font-size:48px">Hello World, I'm Jubair Alam Alif!</h1>
 
 <p align="center">
-  <strong>MERN Stack Web Developer | Full Stack Web Developer | Focused Problem Solver</strong>
+  <strong>MERN Stack Web Developer | Full Stack Web Developer | Passionate Problem Solver</strong>
 </p>
 
 ---
