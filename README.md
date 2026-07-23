@@ -92,5 +92,5 @@ My primary focus is leveraging **Next.js** and **React.js** to deliver lightning
 ---
 
 <p align="center">
-  ⚡ <em>"Writing clean, maintainable code to solve complex, real-world business problems."</em>
+  ⚡ <em>"Writing clean, and maintainable programs to solve complex,real-world business problems."</em>
 </p>
