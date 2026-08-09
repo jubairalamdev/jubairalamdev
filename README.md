@@ -4,16 +4,16 @@
 <h1 align="center" style="font-size:48px">Hello World, I'm Jubair Alam Alif!</h1>
 
 <p align="center">
-  <strong>MERN Stack Web Developer | Full Stack Web Developer | Passionate Problem Solver</strong>
+  <strong>Front End Web Developer | MERN Stack Web Developer | Passionate Problem Solver</strong>
 </p>
 
 ---
 
 ### :man: About Me
 
-I am a results-driven **Full Stack Web Developer** specializing in the MERN Stack and modern JavaScript ecosystems. I build scalable, high-performance web applications that combine robust backend architecture with seamless, intuitive user experiences.
+I am a results-driven **Full Stack focused Frontend Web Developer** specializing in the MERN Stack and modern JavaScript ecosystems. I build scalable, high-performance web applications that combine robust backend architecture with seamless, intuitive user experiences.
 
-My primary focus is leveraging **Next.js** and **React.js** to deliver lightning-fast, SEO-optimized frontends while engineering secure, efficient APIs using **Node.js** and **Express.js**. Whether it's architecting database schemas in MongoDB Atlas or ensuring type safety with **TypeScript**, I write clean, maintainable code that solves real-world business problems.
+My primary focus is leveraging **Next.js** and **React.js** to deliver lightning-fast, SEO-optimized frontends while engineering secure, efficient APIs using **Node.js** and **Express.js**. Whether it's architecting database schemas in MongoDB Atlas, I write clean, maintainable code that solves real-world business problems.
 
 ---
 
