@@ -1,5 +1,5 @@
 <!-- Custom Banner Image with Styled Corners -->
-<img src="./github-cover.png" alt="jubair-cover" style="width:100%; border-radius:20px" />
+<img src="./banner.png" alt="jubair-cover" style="width:100%; border-radius:20px" />
 
 <h1 align="center" style="font-size:48px">Hello World, I'm Jubair Alam Alif!</h1>
 
